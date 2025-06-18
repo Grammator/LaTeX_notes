@@ -1,4 +1,4 @@
-#Used differential identitity
+# Used differential identitity
 
 We are using an identity:
 
