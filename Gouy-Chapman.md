@@ -20,7 +20,7 @@ using the definition of the hyperbolic sine:
 
 $\mathrm{sinh}{b} \equiv \frac{e^{b}-e^{-b}}{2}$
 
-To solve for $b$, we multiply both sides of the equation by an integrating factor $2 \cdot db/dx$, which leads to:
+To solve for $b$, we multiply both sides of the equation by an integrating factor $2 \cdot db/dx$, which leads to (further explained in Differential_identity.md):
 
 $\frac{d}{dx} \left ( \frac{db}{dx} \right )^2 = 2 \kappa^2 \frac{db}{dx} \ \mathrm{sinh}{b}$
 
